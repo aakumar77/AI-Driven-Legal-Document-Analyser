@@ -1,0 +1,13 @@
+torch
+numba
+langchain
+ibm-watsonx-ai
+ibm-watson-machine-learning
+wget
+re
+json
+transformers
+pandas
+streamlit
+openpyxl
+requests
